@@ -1,7 +1,7 @@
-Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit.
-Aenean commodo ligula eget dolor.
-Aenean massa. Tomer is a physicist and I forgot to make hello_world.
+commodo ligula eget dolor.
+massa. Roni the king!
+commodo ligula eget dolor.
+massa. Tomer is a physicist and I forgot to make hello_world.
 Cum sociis natoque penatibus et magnis dis parturient montes,
 nascetur ridiculus mus.
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
